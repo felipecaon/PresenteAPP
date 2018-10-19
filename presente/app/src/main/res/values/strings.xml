@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Presente!</string>
+    <string name="email">E-mail</string>
+    <string name="password">Senha</string>
+    <string name="signin">Entrar</string>
+    <string name="background_image_cdesc">Imagem de fundo.</string>
+    <string name="logout">Logout</string>
+    <string name="try_again_login">Ocorreu um erro ao fazer login. Por favor, tente novamente.</string>
+    <string name="loginText">Login Presente!</string>
+    <string name="nomeProfessor">Luis Jaeger</string>
+    <string name="nomeInstiruicao">CWI Software</string>
+    <string name="nomeMateria">Kotlin - Android</string>
+    <string name="materia">Matéria</string>
+    <string name="adicionar">Adicionar</string>
+
+
+    <string name="listaAulas">Aulas - Disciplinas</string>
+    <string name="criarNovaAulaHeader">Aula - Disciplina</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_lista_alunos">ListaAlunosActivity</string>
+
+
+    <string name="s_appchamadas">App de chamadas de Aula</string>
+</resources>

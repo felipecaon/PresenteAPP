@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "206810939160",
+    "firebase_url": "https://presente-bf0d2.firebaseio.com",
+    "project_id": "presente-bf0d2",
+    "storage_bucket": "presente-bf0d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206810939160:android:e2facc72cf61115f",
+        "android_client_info": {
+          "package_name": "br.com.cwi.presente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206810939160-v8mf5buv7lqdgshif2aljg53kjgbeko1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.cwi.presente",
+            "certificate_hash": "b1a7e0d86c513ac3f0673319eff2e4e3487a24b6"
+          }
+        },
+        {
+          "client_id": "206810939160-e748r2nkjn0ulrg1ubkded138bned8lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHpXC2LJ1evUuVsUqc9YgwsYytOEqDByA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206810939160-e748r2nkjn0ulrg1ubkded138bned8lg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
